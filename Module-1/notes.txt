@@ -1,0 +1,20 @@
+LINQ - Language Integrated Query
+
+Similar to SQL
+Works on Collections
+3 basic operations : 
+    1) Get the source
+    2) Create the Query
+    3) Execute the Query (Wont be executed unless until its called. Unlike any loop or conditionals)
+
+Anatomy of a Query : 
+    Define the source         ---      from .... in ....
+    Define some conditions    ---      where .....
+    Take the filtered output  ---      Select ....
+
+    
+IEnumerable - Return type for linq output
+
+- Cannot use indexes to fetch the values
+
+Let - variables within the queries , similar to var

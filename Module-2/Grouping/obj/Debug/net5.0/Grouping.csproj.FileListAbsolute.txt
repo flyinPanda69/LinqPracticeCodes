@@ -1,0 +1,16 @@
+C:\Personal\LINQ\vsc\Module-2\Grouping\obj\Debug\net5.0\Grouping.csproj.AssemblyReference.cache
+C:\Personal\LINQ\vsc\Module-2\Grouping\obj\Debug\net5.0\Grouping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\LINQ\vsc\Module-2\Grouping\obj\Debug\net5.0\Grouping.AssemblyInfoInputs.cache
+C:\Personal\LINQ\vsc\Module-2\Grouping\obj\Debug\net5.0\Grouping.AssemblyInfo.cs
+C:\Personal\LINQ\vsc\Module-2\Grouping\obj\Debug\net5.0\Grouping.csproj.CoreCompileInputs.cache
+C:\Personal\LINQ\vsc\Module-2\Grouping\bin\Debug\net5.0\Grouping.exe
+C:\Personal\LINQ\vsc\Module-2\Grouping\bin\Debug\net5.0\Grouping.deps.json
+C:\Personal\LINQ\vsc\Module-2\Grouping\bin\Debug\net5.0\Grouping.runtimeconfig.json
+C:\Personal\LINQ\vsc\Module-2\Grouping\bin\Debug\net5.0\Grouping.runtimeconfig.dev.json
+C:\Personal\LINQ\vsc\Module-2\Grouping\bin\Debug\net5.0\Grouping.dll
+C:\Personal\LINQ\vsc\Module-2\Grouping\bin\Debug\net5.0\ref\Grouping.dll
+C:\Personal\LINQ\vsc\Module-2\Grouping\bin\Debug\net5.0\Grouping.pdb
+C:\Personal\LINQ\vsc\Module-2\Grouping\obj\Debug\net5.0\Grouping.dll
+C:\Personal\LINQ\vsc\Module-2\Grouping\obj\Debug\net5.0\ref\Grouping.dll
+C:\Personal\LINQ\vsc\Module-2\Grouping\obj\Debug\net5.0\Grouping.pdb
+C:\Personal\LINQ\vsc\Module-2\Grouping\obj\Debug\net5.0\Grouping.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+Lambda Expressions :
+
+Denoted by the lambda operator =>
+(input) => (work on the input);
+N => ((N%2)==1);

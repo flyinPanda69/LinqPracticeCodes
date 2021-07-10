@@ -1,0 +1,10 @@
+Grouping :
+Group calls let us to group items in the collection by a key.
+all objects in the collection that shares a common value for given property will group together.
+
+var genderGroup = from p in people
+                                group p by p.gender;
+
+"A linq query can end up with either by select or group"
+
+Into : 

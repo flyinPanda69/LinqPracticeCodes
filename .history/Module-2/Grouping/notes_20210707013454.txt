@@ -1,0 +1,3 @@
+Grouping :
+Group calls let us to group items in the collection by a key.
+all items in the collection that shares a commonmg

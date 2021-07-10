@@ -1,0 +1,8 @@
+Lambda Expressions :
+
+Denoted by the lambda operator =>
+(input) => (work on the input);
+N => ((N%2)==1);
+
+Select -> returns collection from another Collections
+Where -> returns collection from another collections with a

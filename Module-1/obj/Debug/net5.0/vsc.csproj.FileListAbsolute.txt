@@ -1,0 +1,16 @@
+C:\Personal\LINQ\vsc\bin\Debug\net5.0\vsc.exe
+C:\Personal\LINQ\vsc\bin\Debug\net5.0\vsc.deps.json
+C:\Personal\LINQ\vsc\bin\Debug\net5.0\vsc.runtimeconfig.json
+C:\Personal\LINQ\vsc\bin\Debug\net5.0\vsc.runtimeconfig.dev.json
+C:\Personal\LINQ\vsc\bin\Debug\net5.0\vsc.dll
+C:\Personal\LINQ\vsc\bin\Debug\net5.0\ref\vsc.dll
+C:\Personal\LINQ\vsc\bin\Debug\net5.0\vsc.pdb
+C:\Personal\LINQ\vsc\obj\Debug\net5.0\vsc.csproj.AssemblyReference.cache
+C:\Personal\LINQ\vsc\obj\Debug\net5.0\vsc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\LINQ\vsc\obj\Debug\net5.0\vsc.AssemblyInfoInputs.cache
+C:\Personal\LINQ\vsc\obj\Debug\net5.0\vsc.AssemblyInfo.cs
+C:\Personal\LINQ\vsc\obj\Debug\net5.0\vsc.csproj.CoreCompileInputs.cache
+C:\Personal\LINQ\vsc\obj\Debug\net5.0\vsc.dll
+C:\Personal\LINQ\vsc\obj\Debug\net5.0\ref\vsc.dll
+C:\Personal\LINQ\vsc\obj\Debug\net5.0\vsc.pdb
+C:\Personal\LINQ\vsc\obj\Debug\net5.0\vsc.genruntimeconfig.cache

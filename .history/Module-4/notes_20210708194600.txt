@@ -1,0 +1,3 @@
+Lambda Expressions :
+Denoted by the lambda operator =>
+(input) => 

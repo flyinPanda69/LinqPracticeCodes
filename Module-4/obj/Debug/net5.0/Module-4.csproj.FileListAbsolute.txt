@@ -1,0 +1,16 @@
+C:\Personal\LINQ\vsc\Module-4\obj\Debug\net5.0\Module-4.csproj.AssemblyReference.cache
+C:\Personal\LINQ\vsc\Module-4\obj\Debug\net5.0\Module-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\LINQ\vsc\Module-4\obj\Debug\net5.0\Module-4.AssemblyInfoInputs.cache
+C:\Personal\LINQ\vsc\Module-4\obj\Debug\net5.0\Module-4.AssemblyInfo.cs
+C:\Personal\LINQ\vsc\Module-4\obj\Debug\net5.0\Module-4.csproj.CoreCompileInputs.cache
+C:\Personal\LINQ\vsc\Module-4\bin\Debug\net5.0\Module-4.exe
+C:\Personal\LINQ\vsc\Module-4\bin\Debug\net5.0\Module-4.deps.json
+C:\Personal\LINQ\vsc\Module-4\bin\Debug\net5.0\Module-4.runtimeconfig.json
+C:\Personal\LINQ\vsc\Module-4\bin\Debug\net5.0\Module-4.runtimeconfig.dev.json
+C:\Personal\LINQ\vsc\Module-4\bin\Debug\net5.0\Module-4.dll
+C:\Personal\LINQ\vsc\Module-4\bin\Debug\net5.0\ref\Module-4.dll
+C:\Personal\LINQ\vsc\Module-4\bin\Debug\net5.0\Module-4.pdb
+C:\Personal\LINQ\vsc\Module-4\obj\Debug\net5.0\Module-4.dll
+C:\Personal\LINQ\vsc\Module-4\obj\Debug\net5.0\ref\Module-4.dll
+C:\Personal\LINQ\vsc\Module-4\obj\Debug\net5.0\Module-4.pdb
+C:\Personal\LINQ\vsc\Module-4\obj\Debug\net5.0\Module-4.genruntimeconfig.cache

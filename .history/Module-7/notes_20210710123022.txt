@@ -1,0 +1,3 @@
+Comparing 2 lists :
+
+Console.WriteLine(lis1 == list2);

@@ -1,0 +1,13 @@
+Comparing 2 lists :
+
+Console.WriteLine(lis1 == list2);
+Console.WriteLine(Equals(list1, list2));
+Console.WriteLine(list1.equals(list2));
+Console.WriteLine(list1.SequenceEqual(list2));   //true
+
+
+
+//Distinct - Can be used on any collection, returns all the unique item in the collection
+// Union - Unique element from both the collections.
+//Intersect - Need another collection, unique element present in both the collection
+//Except - It gives only values which are different in t

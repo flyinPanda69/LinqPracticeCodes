@@ -1,0 +1,5 @@
+Comparing 2 lists :
+
+Console.WriteLine(lis1 == list2);
+Console.WriteLine(Equals(list1, list2));
+list1.equa
