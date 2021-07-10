@@ -1,2 +1,0 @@
-Joining : 
-3 - Inner, Group, Left-Outer

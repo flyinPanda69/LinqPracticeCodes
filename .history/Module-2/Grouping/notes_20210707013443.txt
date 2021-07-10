@@ -1,2 +1,0 @@
-Grouping :
-Group calls let us to group items in the collection by a key.

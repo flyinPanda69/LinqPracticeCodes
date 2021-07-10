@@ -1,3 +1,0 @@
-Grouping :
-Group calls let us to group items in the collection by a key.
-all objects in the collection that shares a common value for a c

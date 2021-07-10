@@ -1,4 +1,0 @@
-Joining : 
-3 - Inner, Group, Left-Outer
-Joining - Multiple collection with some common ground and then combine them with the help
-of common ground.
